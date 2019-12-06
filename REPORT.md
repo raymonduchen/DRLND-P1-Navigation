@@ -1,10 +1,12 @@
 # DRLND-P1 Report : Navigation
 
+[//]: # "Image References"
+[image0]: ./imgs/DQN.jpg "DQN"
+[image1]: ./imgs/score_list.png "score list"
+[image2]: ./imgs/scores.png "scores"
 ### Learning Algorithm
 
-![DQN](./imgs/DQN.jpg)
-
-
+![alt_text][image0]
 
 The learning algorithm is based on DQN and two main techniques are implemented : 
 
@@ -72,11 +74,13 @@ The Q-network are consists of 3 consecutive fully connected layer with 64 nodes 
 
 Based on the above implementation and parameter settings, **the trained agent can receive an average reward (over 100 episodes) of at least +13 (14.01) in 371 episodes** : 
 
-![score_list](./imgs/score_list.png)
+
+
+![alt_text][image1]
 
 
 
-![scores](./imgs/scores.png)
+![alt_text][image2]
 
 ### Ideas for Future Work
 
