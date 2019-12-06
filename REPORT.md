@@ -84,7 +84,5 @@ Based on the above implementation and parameter settings, **the trained agent ca
 
 ### Ideas for Future Work
 
-There are lots work can be tried in this project, such as 
-
 - Use prioritized replay buffer : try to sample high reward tuple with a higher priority
 - Use double DQN technique : because DQN tends to overestimate action values and leads to instability in the beginning training phase of DQN, double DQN technique can lessen this problem.

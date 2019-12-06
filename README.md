@@ -52,14 +52,8 @@ The task is episodic, and in order to solve the environment, the trained agent m
 
 ### Instructions
 
-#### Train a agent
-
 1.  Activate the conda environment `drlnd` as established in [Udacity deep reinforcement learning repository](https://github.com/udacity/deep-reinforcement-learning)
 2. Open jupyter notebook `Navigation.ipynb`
 3. Change kernel to `drlnd` in `Navigation.ipynb`
 4. Execute code cells from step 1 to step 4 in `Navigation.ipynb`, and trained model will be saved in `checkpoint.pth` as the average score > +14.0.
-
-#### Test the trained agent
-
-Execute code cell in step 5, the trained agent  will be tested for 1 episode.
 
