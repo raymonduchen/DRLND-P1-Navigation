@@ -72,7 +72,7 @@ The Q-network are consists of 3 consecutive fully connected layer with 64 nodes 
 
 ### Plot of Rewards
 
-Based on the above implementation and parameter settings, **the trained agent can receive an average reward (over 100 episodes) of at least +13 (14.01) in 371 episodes** : 
+Based on the above implementation and parameter settings, **the trained agent can receive an average reward (over 100 episodes) of at least +13 (14.05) in 397 episodes** : 
 
 
 
